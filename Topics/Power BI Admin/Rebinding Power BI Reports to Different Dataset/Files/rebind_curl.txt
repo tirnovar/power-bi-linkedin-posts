@@ -1,0 +1,6 @@
+curl --location --request POST 'https://api.powerbi.com/v1.0/myorg/groups/{groupId}/reports/{reportId}/Rebind' 
+--header 'Content-Type: application/json' \
+--header 'Authorization: Bearer {Accss Token}' \
+--data-raw '{
+    "datasetId":"{datasetId}"
+}'\

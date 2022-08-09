@@ -1,0 +1,7 @@
+curl --location --request POST 'https://login.microsoftonline.com/{tenantId}/oauth2/token' 
+--header 'Host: login.microsoftonline.com' \
+--header 'Content-Type: application/x-www-form-urlencoded' \
+--data-urlencode 'grant_type=client_credentials' \
+--data-urlencode 'client_id={clientId}' \
+--data-urlencode 'client_secret={clientSecret} ' \
+--data-urlencode 'resource=https://analysis.windows.net/powerbi/api'\
