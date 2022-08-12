@@ -1,0 +1,2 @@
+# Hierarchies with dynamic levels in Matrix by Field Parameters
+[Link to Article](https://www.linkedin.com/pulse/hierarchies-dynamic-levels-matrix-field-parameters-%25C5%25A1t%25C4%259Bp%25C3%25A1n-re%25C5%25A1l/?published=t&trackingId=tlLP0bhcRKmjqF%2Fooh9mFg%3D%3D)
