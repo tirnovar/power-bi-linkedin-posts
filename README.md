@@ -5,5 +5,6 @@
 
 - DAX 
     - [Field parameters in cooperation with Calculation groups](https://github.com/tirnovar/power-bi-linkedin-posts/tree/main/Topics/DAX/Field%20parameters%20in%20cooperation%20with%20Calculation%20groups)
+    - [Hierarchies with dynamic levels in Matrix by Field Parameters](https://github.com/tirnovar/power-bi-linkedin-posts/tree/main/Topics/DAX/Hierarchies%20with%20dynamic%20levels%20in%20Matrix%20by%20Field%20Parameters)
 - Power BI Admin
     - [Rebinding Power BI Reports to Different Dataset](https://github.com/tirnovar/power-bi-linkedin-posts/tree/main/Topics/Power%20BI%20Admin/Rebinding%20Power%20BI%20Reports%20to%20Different%20Dataset)
